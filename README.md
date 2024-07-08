@@ -4,16 +4,14 @@
 <h6>Memory:</h6> 16 GB RAM
 <h6>GPU:</h6> NVIDIA T4, 16 GB (GPU 1)
 <h3> Libraries: </h3>
-Python Version: 3.12.3 <br>
-Libraries:<br><br>
-<li>
-pandas
-	<ul>numpy</ul>
-	<ul>matplotlib</ul>
-	<ul>seaborn</ul>
-	<ul>scikit-learn</ul>
-	<ul>tensorflow</ul>
-</li>
+Python Version: 3.12.3 <br><br>
+Libraries:<br>
+	<li>pandas</li>
+	<li>numpy</li> 
+ 	<li>matplotlib</li>
+  	<li>seaborn</li>
+   `	<li>scikit-learn</li>
+   	<li>tensorflow</li>
 
 
 
