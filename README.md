@@ -15,15 +15,15 @@ Libraries:<br>
 <br>
 
 Model Parameters: <br>
-	RR:  
-		param_grid_rf = {
-		    'n_estimators': [50, 100],
+	RF:
+  		param_grid_rf = {
+		    'n_estimators': [50, 100],  
 		    'max_depth': [5], 
 		    'min_samples_split': [2, 5, 10],  
 		    'min_samples_leaf': [1],
 		    'max_features': ['auto', 'sqrt', 0.5],
 		    'random_state': [0]
-		} 
+		}
   
 	DT: dc_clf = DecisionTreeClassifier(max_depth=5, min_samples_split=5, min_samples_leaf=2)
  
