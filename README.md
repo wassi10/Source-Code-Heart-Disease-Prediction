@@ -53,3 +53,5 @@ Model Parameters: <br> <br>
 		    'min_samples_leaf': [1],
 		    'random_state': [0]
 		}
+
+	Section IV, Subsections A and B, and Section V provide the Data Collection, Data Preprocessing, and Evaluation procedures.
