@@ -14,7 +14,7 @@ Libraries:<br>
    	<li>tensorflow</li>
 <br>
 
-Model Parameters:
+Model Parameters: <br>
 	RR: param_grid_rf = {
 param_grid_rf = {
     'n_estimators': [50, 100],  
@@ -23,7 +23,7 @@ param_grid_rf = {
     'min_samples_leaf': [1],
     'max_features': ['auto', 'sqrt', 0.5],
     'random_state': [0]
-}
+} <br>
 	DT: 
  dc_clf = DecisionTreeClassifier(max_depth=5, min_samples_split=5, min_samples_leaf=2)
 LR: param_grid = {
