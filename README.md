@@ -1,8 +1,8 @@
-<h3> Computational Environment</h3>>
-Operating System: Windows 11, Version: 23H2
-Processor: 12th Gen Intel(R) Core(TM) i5-1235U
-Memory: 16 GB RAM
-GPU: NVIDIA T4, 16 GB (GPU 1)
+<h3> Computational Environment</h3>
+<h6>Operating System:</h6> Windows 11, Version: 23H2
+<h6>Processor:</h6> 12th Gen Intel(R) Core(TM) i5-1235U
+<h6>Memory:</h6> 16 GB RAM
+<h6>GPU:</h6> NVIDIA T4, 16 GB (GPU 1)
  Libraries: 
 Python Version: 3.12.3
 Libraries:
