@@ -14,7 +14,7 @@ Libraries:<br>
    	<li>tensorflow</li>
 <br>
 
-Model Parameters: <br>
+Model Parameters: <br> <<br>
 	RF:
   		param_grid_rf = {
 		    'n_estimators': [50, 100],  
