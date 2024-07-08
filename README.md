@@ -7,12 +7,12 @@
 Python Version: 3.12.3 <br>
 Libraries:<br><br>
 <li>
-	<ul>pandas</ul>
+pandas
 	<ul>numpy</ul>
 	<ul>matplotlib</ul>
 	<ul>seaborn</ul>
 	<ul>scikit-learn</ul>
-	<ul>tensorflow</ul>>
+	<ul>tensorflow</ul>
 </li>
 
 
