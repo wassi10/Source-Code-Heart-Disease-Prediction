@@ -54,5 +54,5 @@ Model Parameters: <br> <br>
 		    'random_state': [0]
 		}
 
-	<br>
+<br>
 	Section IV, Subsections A and B, and Section V provide the Data Collection, Data Preprocessing, and Evaluation procedures.
