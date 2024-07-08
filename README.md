@@ -14,10 +14,10 @@ Libraries:<br>
    	<li>tensorflow</li>
 <br>
 
-Model Parameters: <br> <<br>
+Model Parameters: <br> <br>
 	RF:
   		param_grid_rf = {
-		    'n_estimators': [50, 100],  
+		    'n_estimators': [50,100],  
 		    'max_depth': [5], 
 		    'min_samples_split': [2, 5, 10],  
 		    'min_samples_leaf': [1],
