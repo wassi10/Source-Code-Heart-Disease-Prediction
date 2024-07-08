@@ -3,7 +3,7 @@
 <h6>Processor:</h6> 12th Gen Intel(R) Core(TM) i5-1235U
 <h6>Memory:</h6> 16 GB RAM
 <h6>GPU:</h6> NVIDIA T4, 16 GB (GPU 1)
- Libraries: 
+<h3> Libraries: </h3>
 Python Version: 3.12.3
 Libraries:
 pandas
