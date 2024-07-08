@@ -12,11 +12,7 @@ Libraries:<br>
   	<li>seaborn</li>
    `	<li>scikit-learn</li>
    	<li>tensorflow</li>
-
-
-
-
-
+<br>
 
 Model Parameters:
 	RR: param_grid_rf = {
