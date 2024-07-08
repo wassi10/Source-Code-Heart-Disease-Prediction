@@ -17,12 +17,12 @@ Libraries:<br>
 Model Parameters: <br>
 	RR:  
 		param_grid_rf = {
-		    'n_estimators': [50, 100],  <br>
-		    'max_depth': [5], <br>
-		    'min_samples_split': [2, 5, 10],  <br>
-		    'min_samples_leaf': [1],<br>
-		    'max_features': ['auto', 'sqrt', 0.5],<br>
-		    'random_state': [0] <br>
+		    'n_estimators': [50, 100],
+		    'max_depth': [5], 
+		    'min_samples_split': [2, 5, 10],  
+		    'min_samples_leaf': [1],
+		    'max_features': ['auto', 'sqrt', 0.5],
+		    'random_state': [0]
 		} 
   
 	DT: dc_clf = DecisionTreeClassifier(max_depth=5, min_samples_split=5, min_samples_leaf=2)
