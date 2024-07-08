@@ -24,7 +24,6 @@ Model Parameters: <br> <br>
 		    'max_features': ['auto', 'sqrt', 0.5],
 		    'random_state': [0]
 		}
-
   
 	DT: dc_clf = DecisionTreeClassifier(max_depth=5, min_samples_split=5, min_samples_leaf=2)
  
