@@ -15,7 +15,7 @@ Libraries:<br>
 <br>
 
 Model Parameters: <br> <br>
-	RF:
+	RF: <br>
 		param_grid_rf = {
 		    'n_estimators': [50, 100],  
 		    'max_depth': [5], 
