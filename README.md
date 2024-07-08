@@ -16,14 +16,14 @@ Libraries:<br>
 
 Model Parameters: <br>
 	<h6>RR: </h6> 
-	param_grid_rf = {
-	    'n_estimators': [50, 100],  <br>
-	    'max_depth': [5], <br>
-	    'min_samples_split': [2, 5, 10],  <br>
-	    'min_samples_leaf': [1],<br>
-	    'max_features': ['auto', 'sqrt', 0.5],<br>
-	    'random_state': [0] <br>
-	} <br>
+		param_grid_rf = {
+		    'n_estimators': [50, 100],  <br>
+		    'max_depth': [5], <br>
+		    'min_samples_split': [2, 5, 10],  <br>
+		    'min_samples_leaf': [1],<br>
+		    'max_features': ['auto', 'sqrt', 0.5],<br>
+		    'random_state': [0] <br>
+		} <br>
 	DT: 
  dc_clf = DecisionTreeClassifier(max_depth=5, min_samples_split=5, min_samples_leaf=2)
 LR: param_grid = {
