@@ -5,13 +5,21 @@
 <h6>GPU:</h6> NVIDIA T4, 16 GB (GPU 1)
 <h3> Libraries: </h3>
 Python Version: 3.12.3 <br>
-Libraries:
-pandas
-numpy
-matplotlib.pyplot
-seaborn
-scikit-learn
-tensorflow
+Libraries:<br><br>
+<li>
+	<ul>pandas</ul>
+	<ul>numpy</ul>
+	<ul>matplotlib</ul>
+	<ul>seaborn</ul>
+	<ul>scikit-learn</ul>
+	<ul>tensorflow</ul>>
+</li>
+
+
+
+
+
+
 Model Parameters:
 	RR: param_grid_rf = {
 param_grid_rf = {
